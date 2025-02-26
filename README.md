@@ -18,3 +18,5 @@ React.js ⚛️
 HTML & CSS 🎨
 
 JavaScript (ES6+)
+
+![Image](https://github.com/user-attachments/assets/22d387d7-21b9-4315-8a8b-eff7e00a0e7e)
